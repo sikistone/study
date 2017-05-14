@@ -1,1 +1,1 @@
-# study someting :-)
+# study someting new :-)
