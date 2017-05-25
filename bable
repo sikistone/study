@@ -1,0 +1,7 @@
+bable （javascript 编辑器）
+由四部分组成：bable-core \plugins\presets\.bablerc  
+bable-core 运行起来的核心
+plugins-- 一系列的插件来运行
+presets(预设-插件集合)-{react,latest,ES2015}
+.bablerc(配置文件，在配置里面指明你需要的哪些配置。)
+官网地址：https://babeljs.io/
